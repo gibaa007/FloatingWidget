@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/newagesmb/AndroidProjects/Floating Widget/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_close.png",
+        "source": "/home/newagesmb/AndroidProjects/Floating Widget/app/src/main/res/drawable-nodpi/ic_close.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/Floating Widget/app/build/intermediates/res/merged/debug/drawable-nodpi/music_player.png",
+        "source": "/home/newagesmb/AndroidProjects/Floating Widget/app/src/main/res/drawable-nodpi/music_player.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/Floating Widget/app/build/intermediates/res/merged/debug/drawable-nodpi/ic_android_circle.png",
+        "source": "/home/newagesmb/AndroidProjects/Floating Widget/app/src/main/res/drawable-nodpi/ic_android_circle.png"
+    }
+]

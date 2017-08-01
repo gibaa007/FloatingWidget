@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/newagesmb/AndroidProjects/Floating Widget/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_play_next.png",
+        "source": "/home/newagesmb/AndroidProjects/Floating Widget/app/src/main/res/mipmap-xhdpi/ic_play_next.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/Floating Widget/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/newagesmb/AndroidProjects/Floating Widget/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/Floating Widget/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_play.png",
+        "source": "/home/newagesmb/AndroidProjects/Floating Widget/app/src/main/res/mipmap-xhdpi/ic_play.png"
+    },
+    {
+        "merged": "/home/newagesmb/AndroidProjects/Floating Widget/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_previous.png",
+        "source": "/home/newagesmb/AndroidProjects/Floating Widget/app/src/main/res/mipmap-xhdpi/ic_previous.png"
+    }
+]
